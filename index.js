@@ -6,7 +6,7 @@
 
 
 
-//#3: Create a variable called testSchool.  The variable should store a new object using the School class.  You can make up a name, size, etc. for this School.
+//#3: Create a variable called testSchool.  The variable should store a new object using the School class.  You can make up a name, size, etc. for this object.
 
 
 
